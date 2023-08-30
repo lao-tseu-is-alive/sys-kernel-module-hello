@@ -1,0 +1,20 @@
+{
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "/usr/include",
+        "/usr/src/linux-headers-generic/arch/x86/include",
+        "/usr/src/linux-headers-generic/arch/x86/include/generated",
+        "/usr/src/linux-headers-generic/include",
+        "/usr/src/linux-headers-generic/ubuntu/include",
+        "/home/cgil/cgdev/linux_kernel_source_jammy/include",
+        "/home/cgil/cgdev/linux_kernel_source_jammy" 
+    ],
+    "C_Cpp.default.cppStandard": "gnu++14",
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.defines": [
+        "__KERNEL__",
+        "_GNU_SOURCE",
+        "MODULE"
+    ]
+}

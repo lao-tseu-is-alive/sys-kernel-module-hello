@@ -35,9 +35,12 @@ you will see in your kernel:
 
  + [Bootlin kernel search reference printk definition](https://elixir.bootlin.com/linux/v6.2/source/include/linux/printk.h#L433)
 
+ + [Kernel official documentation: Message Logging with printk](https://docs.kernel.org/core-api/printk-basics.html?highlight=printk)
+
  + [The Linux Kernel Module Programming Guide (github)](https://github.com/sysprog21/lkmpg)
  
  + [The Linux Kernel Module Programming Guide (html content)](https://sysprog21.github.io/lkmpg/)
 
  + [The Linux Kernel Module Programming Guide (pdf book)](https://github.com/sysprog21/lkmpg/releases/download/latest/lkmpg.pdf)
 
++ [Ubuntu 22.04.0 LTS Jammy Linux Source Git](https://code.launchpad.net/~ubuntu-kernel/ubuntu/+source/linux/+git/jammy/+ref/hwe-6.2-prep)
